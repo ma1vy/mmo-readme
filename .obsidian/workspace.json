@@ -25,18 +25,13 @@
             "id": "110bfef916b8fd67",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "diff-view",
               "state": {
-                "file": "TODO.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false
-                  ]
-                }
+                "file": ".obsidian/plugins/obsidian-git/data.json",
+                "staged": false
               },
-              "icon": "lucide-trello",
-              "title": "TODO"
+              "icon": "git-pull-request",
+              "title": "Diff View (data.json)"
             }
           }
         ],
@@ -195,8 +190,8 @@
   },
   "active": "110bfef916b8fd67",
   "lastOpenFiles": [
-    "Basics/Introduction.md",
     "TODO.md",
+    "Basics/Introduction.md",
     "Basics/Mechanics.md",
     "Welcome.md",
     "README.md",
