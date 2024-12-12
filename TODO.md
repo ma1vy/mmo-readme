@@ -9,6 +9,7 @@ kanban-plugin: board
 - [ ] Penis
 - [ ] Da silva
 - [ ] abc
+- [ ] hi
 
 
 
