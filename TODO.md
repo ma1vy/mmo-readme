@@ -10,6 +10,7 @@ kanban-plugin: board
 - [ ] Da silva
 - [ ] abc
 - [ ] hi
+- [ ] hello
 
 
 
